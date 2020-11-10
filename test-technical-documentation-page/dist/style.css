@@ -1,0 +1,27 @@
+body {
+  line-height: 1.5rem;
+  }
+
+#navbar {
+  border-right: solid;
+  border-left: solid;
+  border-color: #999;
+  position: fixed;
+  left: 0px;
+  height: 100%;
+  width: 23%;
+  flex-direction: column;
+}
+
+#main-doc {
+  margin-left: 25%;
+  padding: 5px;
+}
+
+@media {
+  min-width: 300px;
+ 
+}
+ {
+  /* For mobile phone */
+}
